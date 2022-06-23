@@ -1,0 +1,48 @@
+----------------------------------------
+-e 
+>> 720p test with 1 nodes
+Execution time for rank 0: 0.019821
+-e 
+>> 720p test with 2 nodes
+Execution time for rank 1: 0.023604
+Execution time for rank 0: 0.024363
+-e 
+>> 720p test with 4 nodes
+Execution time for rank 3: 0.011078
+Execution time for rank 1: 0.010652
+Execution time for rank 2: 0.011771
+Execution time for rank 0: 0.011248
+-e 
+>> 720p test with 8 nodes
+----------------------------------------
+-e 
+>> 1080p test with 1 nodes
+Execution time for rank 0: 0.050488
+-e 
+>> 1080p test with 2 nodes
+Execution time for rank 1: 0.031735
+Execution time for rank 0: 0.033764
+-e 
+>> 1080p test with 4 nodes
+Execution time for rank 1: 0.016080
+Execution time for rank 3: 0.016690
+Execution time for rank 2: 0.016387
+Execution time for rank 0: 0.017207
+-e 
+>> 1080p test with 8 nodes
+----------------------------------------
+-e 
+>> 4k test with 1 nodes
+Execution time for rank 0: 0.048068
+-e 
+>> 4k test with 2 nodes
+Execution time for rank 1: 0.031888
+Execution time for rank 0: 0.032924
+-e 
+>> 4k test with 4 nodes
+Execution time for rank 2: 0.048552
+Execution time for rank 3: 0.049262
+Execution time for rank 1: 0.048503
+Execution time for rank 0: 0.050959
+-e 
+>> 4k test with 8 nodes
